@@ -18,20 +18,22 @@
 #### TOOLS
 [app.xrespond.com](app.xrespond.com)
 This site allows you to view a website in a range of sizes all on one screen. You can add custom sizes as well.
+
 [w3schools.com/css/css_rwd_intro.asp](w3schools.com/css/css_rwd_intro.asp)
 This is w3schools.com’s site dealing with the basics of responsive web design. That entire site is a great reference for coding questions.
+
 [bradfrost.github.com/this-is-responsive](bradfrost.github.com/this-is-responsive)
 A portal page with links to LOTS of reference materials and tools.
 
 #### FRAMEWORKS
-Bootstrap: [getbootstrap.com](http://getbootstrap.com)
-Foundation: [https://foundation.zurb.com](https://foundation.zurb.com)
-Skeleton: http://getskeleton.com/
-Bulma: http://bulma.io/
-There are MANY others . . .
+- Bootstrap: [getbootstrap.com](http://getbootstrap.com)
+- Foundation: [foundation.zurb.com](https://foundation.zurb.com)
+- Skeleton: [getskeleton.com](http://getskeleton.com)
+- Bulma: [bulma.io](http://bulma.io)
+- There are MANY others . . .
 
 #### ARTICLES
-http://bradfrost.com/blog/web/responsive-web-design-missing-the-point/
-https://www.frankchimero.com/writing/the-webs-grain/
-https://alistapart.com/article/responsive-web-design
-http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design
+- [bradfrost.com/blog/web/responsive-web-design-missing-the-point](http://bradfrost.com/blog/web/responsive-web-design-missing-the-point)
+- [frankchimero.com/writing/the-webs-grain](https://www.frankchimero.com/writing/the-webs-grain)
+- [alistapart.com/article/responsive-web-design](https://alistapart.com/article/responsive-web-design)
+- [blog.teamtreehouse.com/beginners-guide-to-responsive-web-design](http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design)
