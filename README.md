@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+#Responsive Web Design 
+###Online Resources
 
-You can use the [editor on GitHub](https://github.com/KUDaveG/responsive-design/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+####TIPS FOR RESPONSIVE DESIGN	
+1. Learn code
+2. Depending on the project, try designing mobile-first.
+3. Give up the notion of rigidity
+4. Think about the user first
+5. Think about the differences in the various media (desktop, mobile, etc.)
+  - Hover states (won’t show up on mobile)
+  - Text-size (larger on mobile for easier reading?)
+  - Keeping things “touchable” (size of texts or buttons)
+  - Consider margins around buttons (avoid accidental clicking)
+6. Don’t forget to add 
+  `<meta name=”viewport” content=”width=device-width, initial-scale=1.0”>`
+7. Test on a range of devices
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+####TOOLS
+app.xrespond.com
+This site allows you to view a website in a range of sizes all on one screen. You can add custom sizes as well.
+w3schools.com/css/css_rwd_intro.asp
+This is w3schools.com’s site dealing with the basics of responsive web design. That entire site is a great reference for coding questions.
+bradfrost.github.com/this-is-responsive
+A portal page with links to LOTS of reference materials and tools.
 
-### Markdown
+####FRAMEWORKS
+Bootstrap: http://getbootstrap.com/
+Foundation: https://foundation.zurb.com/
+Skeleton: http://getskeleton.com/
+Bulma: http://bulma.io/
+There are MANY others . . .
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KUDaveG/responsive-design/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+####ARTICLES
+http://bradfrost.com/blog/web/responsive-web-design-missing-the-point/
+https://www.frankchimero.com/writing/the-webs-grain/
+https://alistapart.com/article/responsive-web-design
+http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design
