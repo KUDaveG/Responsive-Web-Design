@@ -16,16 +16,16 @@
 7. Test on a range of devices
 
 #### TOOLS
-app.xrespond.com
+[app.xrespond.com](app.xrespond.com)
 This site allows you to view a website in a range of sizes all on one screen. You can add custom sizes as well.
-w3schools.com/css/css_rwd_intro.asp
+[w3schools.com/css/css_rwd_intro.asp](w3schools.com/css/css_rwd_intro.asp)
 This is w3schools.com’s site dealing with the basics of responsive web design. That entire site is a great reference for coding questions.
-bradfrost.github.com/this-is-responsive
+[bradfrost.github.com/this-is-responsive](bradfrost.github.com/this-is-responsive)
 A portal page with links to LOTS of reference materials and tools.
 
 #### FRAMEWORKS
-Bootstrap: http://getbootstrap.com/
-Foundation: https://foundation.zurb.com/
+Bootstrap: [getbootstrap.com](http://getbootstrap.com)
+Foundation: [https://foundation.zurb.com](https://foundation.zurb.com)
 Skeleton: http://getskeleton.com/
 Bulma: http://bulma.io/
 There are MANY others . . .
