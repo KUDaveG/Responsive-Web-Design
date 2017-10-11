@@ -1,7 +1,7 @@
-#Responsive Web Design 
-###Online Resources
+# Responsive Web Design 
+### Online Resources
 
-####TIPS FOR RESPONSIVE DESIGN	
+#### TIPS FOR RESPONSIVE DESIGN	
 1. Learn code
 2. Depending on the project, try designing mobile-first.
 3. Give up the notion of rigidity
@@ -15,7 +15,7 @@
   `<meta name=”viewport” content=”width=device-width, initial-scale=1.0”>`
 7. Test on a range of devices
 
-####TOOLS
+#### TOOLS
 app.xrespond.com
 This site allows you to view a website in a range of sizes all on one screen. You can add custom sizes as well.
 w3schools.com/css/css_rwd_intro.asp
@@ -23,14 +23,14 @@ This is w3schools.com’s site dealing with the basics of responsive web design.
 bradfrost.github.com/this-is-responsive
 A portal page with links to LOTS of reference materials and tools.
 
-####FRAMEWORKS
+#### FRAMEWORKS
 Bootstrap: http://getbootstrap.com/
 Foundation: https://foundation.zurb.com/
 Skeleton: http://getskeleton.com/
 Bulma: http://bulma.io/
 There are MANY others . . .
 
-####ARTICLES
+#### ARTICLES
 http://bradfrost.com/blog/web/responsive-web-design-missing-the-point/
 https://www.frankchimero.com/writing/the-webs-grain/
 https://alistapart.com/article/responsive-web-design
